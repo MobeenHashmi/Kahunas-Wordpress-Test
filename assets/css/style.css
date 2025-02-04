@@ -1,0 +1,12 @@
+.plugin-test-top-users-block {
+	border: 1px solid #ddd;
+	padding: 10px;
+	margin: 10px 0;
+}
+.plugin-test-top-users-block ul {
+	list-style-type: none;
+	padding-left: 0;
+}
+.plugin-test-top-users-block li {
+	padding: 5px 0;
+}
